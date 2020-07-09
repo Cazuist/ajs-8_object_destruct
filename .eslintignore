@@ -1,0 +1,4 @@
+dist
+src/js/__test__
+coverage
+node_modules
